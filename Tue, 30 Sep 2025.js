@@ -15,7 +15,7 @@
 // Output: [000, 001, 010, 011, 100, 101, 110, 111]
 // Explanation: As each position can be either 0 or 1, the total possible combinations are 8.
 // Constraints:
-// 1 ≤ n ≤ 2^0
+// 1 ≤ n ≤ 20
 // Expected Complexities
 // Time Complexity: O(n * 2^n)
 // Auxiliary Space: O(n)
