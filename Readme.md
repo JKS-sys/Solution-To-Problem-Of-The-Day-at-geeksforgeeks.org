@@ -1,7 +1,10 @@
+Copyright (c) 2025 Jagadeesh Kumar S. All rights reserved.
+This code may not be copied, distributed, or used without permission.
+
 ---
 introduction:
   name: "Jagadeesh Kumar S"
-  contact: "+91 73972 85837 | 33x23@pm.me"
+  contact: "+91 73972 85837 | Jagadeesh_2k17@proton.me"
   description: "A problem-solving enthusiast passionate about coding challenges."
 
 technical_achievements:
